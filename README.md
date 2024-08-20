@@ -17,6 +17,7 @@ Ensure you have the following Python libraries installed:
 - `matplotlib`
 - `seaborn`
 - `pandas`
+- `numpy`
 
 You can install them using pip:
 
